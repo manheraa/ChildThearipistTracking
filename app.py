@@ -150,7 +150,7 @@ elif tracking_mode == "Upload Video":
 
                 while st.session_state.cap.isOpened():
                     ret, frame = st.session_state.cap.read()
-                    frame_count += 3
+                    frame_count += 2
 
                     if not ret or frame_count % frame_skip != 0:
                         continue  # Skip frames
