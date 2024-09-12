@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project demonstrates how to build an object tracking application using YOLO (You Only Look Once) integrated with a Streamlit web app. The application supports real-time object tracking via webcam and video file uploads. The YOLO model, provided by the Ultralytics library, detects and tracks objects in video frames. Users can adjust the confidence and IoU thresholds through the Streamlit interface and choose between different tracking configurations.
+This project demonstrates how to build an object tracking application using YOLO (You Only Look Once) integrated with a Streamlit web app. The application supports real-time object tracking via webcam and video file uploads. The YOLOV8 model, provided by the Ultralytics library, detects and tracks objects in video frames. Users can adjust the confidence and IoU thresholds through the Streamlit interface and choose between different tracking configurations.
 ## Installation
 
 To install the necessary dependencies for this project, run the following command:
