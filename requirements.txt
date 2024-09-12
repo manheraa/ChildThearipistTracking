@@ -1,6 +1,6 @@
 streamlit
 ultralytics==8.2.91
 ultralytics-thop==2.0.6
-opencv-python==4.10.0.84    
+ 
 numpy==1.26.4
 opencv-python-headless==4.10.0.84
