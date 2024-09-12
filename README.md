@@ -8,11 +8,23 @@ This project demonstrates how to build an object tracking application using YOLO
 To install the necessary dependencies for this project, run the following command:
 
 ```bash
+git clone https://github.com/manheraa/ChildThearipistTracking.git
+cd ChildThearipistTracking-main
+```
+```bash
 python3 -m venv venv
+```
 For windows:
+```bash
 ven/Scripts/activate
+```
 For Linux:
+```bash
 source venv/bin/activate
+```
+
+
+```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
@@ -30,10 +42,6 @@ streamlit run app.py
 - **CUDA** (optional for GPU acceleration): Version 11.8
 - **PyTorch** (optional for GPU acceleration): Version 2.2.2+cu118
 
-## Installation
 
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   
+   
